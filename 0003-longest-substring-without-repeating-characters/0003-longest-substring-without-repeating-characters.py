@@ -38,18 +38,40 @@ class Solution(object):
        # reminder is even if s[j] in our hashmap we only update our substring
        # if s[j] in our substring for that s[j] >= i
 
-        hashMap = {} ; n = len(s)
-        i = j = maxLen = 0
-        while j < n :
-            if s[j] not in hashMap :
+        # hashMap = {} ; n = len(s)
+        # i = j = maxLen = 0
+        # while j < n :
+        #     if s[j] not in hashMap :
+        #         maxLen = max(maxLen,j-i+1) 
+        #     else : 
+        #         if hashMap[s[j]] >= i :
+        #             i = hashMap[s[j]] + 1
+        #         else:   
+        #             maxLen = max(maxLen,j-i+1)  
+                    
+        #     hashMap[s[j]] = j
+        #     print(s[i:j+1])
+        #     j += 1
+        # return maxLen
+
+
+
+        hashSet = set()
+        i = j = maxLen = 0 ; n = len(s)
+        while j < n:
+            if s[j] not in hashSet : 
+                hashSet.add(s[j])
                 maxLen = max(maxLen,j-i+1)
-                
-            else : 
-                if hashMap[s[j]] >= i :
-                    i = hashMap[s[j]] + 1
-                else :   
-                    maxLen = max(maxLen,j-i+1)  
-            hashMap[s[j]] = j
-            print(s[i:j+1])
-            j += 1
+                j += 1
+            else:
+                while i < j  and s[j] in hashSet : 
+                    hashSet.remove(s[i])
+                    i += 1
+           
+            
         return maxLen
+            
+                
+            
+
+
