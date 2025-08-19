@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
