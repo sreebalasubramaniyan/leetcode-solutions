@@ -5,6 +5,9 @@
 #         self.next = next
 class Solution(object):
     def reverseKGroup(self, head, k):
+        if not head.next and k == 1 :
+            return head
+        
         def rev(H) :
             if not H or not H.next :
                 return H
@@ -27,16 +30,20 @@ class Solution(object):
                 print slow.val , fast.val
                 X = fast.next
                 fast.next = None
-                R.next = rev(slow)
-                R = slow
+                if slow == head :
+                    head = rev(slow)
+                    nextNode = slow
+                else :
+                    nextNode.next = rev(slow)
+                    nextNode = slow 
                 fast = X
                 slow = fast 
             else :
                 break
         print slow
         if slow :
-            R.next = slow
-        return resLL.next
+            nextNode.next = slow
+        return head
 
 
         
