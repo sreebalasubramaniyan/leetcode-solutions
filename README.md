@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
