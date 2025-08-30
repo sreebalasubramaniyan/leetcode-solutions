@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 ## Linked List
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0169-majority-element) |
 ## Sorting
