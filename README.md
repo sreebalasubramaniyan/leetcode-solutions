@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -137,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
