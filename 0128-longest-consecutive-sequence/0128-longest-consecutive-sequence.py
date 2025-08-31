@@ -7,11 +7,10 @@ class Solution(object):
         # for i in hashMap :
         #     if i-1 in hashMap or i+1 in hashMap :
         #         res += 1
-            
-
         # return max(res,1)
-        if not nums : return 0
-        nums.sort() ; maxLen = float('-inf')
+        # if not nums : return 0
+        # nums.sort() ; maxLen = float('-inf')
+# Type 1
         # i = 0 
         # while i < le(nums) :
         #     curLen = 1
@@ -21,17 +20,31 @@ class Solution(object):
         #         while i + 1 < len(nums) and nums[i] == nums[i+1] :
         #             i += 1
         #     i += 1
-        prev = nums[0] ; curLen = 1 ; maxLen = float('-inf')
-        if len(nums) == 1 : return 1
-        for i in range(1,len(nums)) :
-            if nums[i] == prev : continue
-            if prev + 1 == nums[i] :
-                curLen += 1
-            else :
+
+# Type 2 
+        # prev = nums[0] ; curLen = 1 ; maxLen = float('-inf')
+        # for i in range(1,len(nums)) :
+        #     if nums[i] == prev : continue
+        #     if prev + 1 == nums[i] : curLen += 1
+        #     else :curLen = 1
+        #     prev = nums[i]
+        #     maxLen = max(maxLen,curLen)
+        # return max(maxLen,curLen)
+
+        # Optimal 
+        if not nums : return 0
+        hashSet = set(nums)
+        curLen = 0  ; maxLen = float('-inf')
+        for i in hashSet :
+            cur = i
+            if cur - 1 not in hashSet :
                 curLen = 1
-            prev = nums[i]
+                while cur + 1 in hashSet :
+                    curLen += 1
+                    cur += 1
             maxLen = max(maxLen,curLen)
-        return max(maxLen,curLen)
+        return maxLen
+
 
 
 
