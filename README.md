@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Merge Sort
 |  |
 | ------- |
