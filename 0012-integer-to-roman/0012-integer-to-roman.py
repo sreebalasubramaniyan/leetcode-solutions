@@ -1,7 +1,19 @@
 class Solution(object):
     def intToRoman(self, num):
-        hashMap = {1000:'M',500:'D',100:'C',50:'L',10:'X',5:'V',1:'I'}
+        hashMap = {1000:'M',900:'CM',500:'D',400:'CD',100:'C',50:'L',40:'XL',10:'X',5:'V',4:'IV',1:'I'}
+        hashArray = [(1000,'M'), (900,'CM'), (500,'D'), (400,'CD'),
+             (100,'C'),(90,'XC'), (50,'L'), (40,'XL'), (10,'X'),(9,'IX'),
+             (5,'V'), (4,'IV'), (1,'I')]
 
+    # Easy Method
+        res = ""
+        for value , roman in hashArray :
+            while num >= value :
+                res += roman
+                num -= value
+        return res
+             
+    # My Method
         ans =[] ; dig = 0
         if num in hashMap : return hashMap[num]
         while num > 0 :
@@ -17,7 +29,7 @@ class Solution(object):
                     res += hashMap[pow(10,dig)] + hashMap[pow(10,(dig+1))]
                 elif  cur == 4*pow(10,dig):
                     res += hashMap[pow(10,dig)] + hashMap[5*pow(10,(dig))]
-                
+
             if res : ans.append(res)
             num //= 10
             dig += 1
