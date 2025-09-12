@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3462-vowels-game-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
