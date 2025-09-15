@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1078-remove-outermost-parentheses](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0647-palindromic-substrings](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Linked List
 |  |
 | ------- |
