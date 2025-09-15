@@ -3,7 +3,7 @@ class MyStack(object):
 
     def __init__(self):
         self.q1 = deque() # main
-        self.q2 = deque() # auxillary
+        # self.q2 = deque() # auxillary
 
     def push(self, x):
         """
@@ -11,19 +11,19 @@ class MyStack(object):
         :rtype: None
         """
         self.q1.append(x)
+        for _ in range(len(self.q1) - 1) : # alyas keep revers
+            e = self.q1.popleft()
+            self.q1.append(e)
+        
         
 
     def pop(self):
         """
         :rtype: int
         """
+         
         if len(self.q1) == 0 : return None
-        while len(self.q1) > 1 :
-            e = self.q1.popleft()
-            self.q2.append(e)
-        val = self.q1.popleft()
-        self.q1,self.q2 =  self.q2,self.q1
-        return val
+        return self.q1.popleft()
         
 
     def top(self):
@@ -31,13 +31,7 @@ class MyStack(object):
         :rtype: int
         """
         if len(self.q1) == 0 : return None
-        while len(self.q1) > 1 :
-            e = self.q1.popleft()
-            self.q2.append(e)
-        Top = self.q1.popleft()
-        self.q2.append(Top)
-        self.q1,self.q2 =  self.q2,self.q1
-        return Top
+        return self.q1[0]
 
     def empty(self):
         """
