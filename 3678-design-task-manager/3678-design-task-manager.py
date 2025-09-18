@@ -9,8 +9,7 @@ class TaskManager(object):
         for u,t,p in tasks:
             self.rank.add((p,t))
             self.Store[t] = (p,u)
-        print self.Store
-        print self.rank
+         
         
 
     def add(self, u, t, p):
@@ -22,8 +21,7 @@ class TaskManager(object):
         """
         self.Store[t] = (p,u)
         self.rank.add((p,t))
-        print self.Store
-        print self.rank
+         
 
     def edit(self, t, new):
         """
@@ -35,8 +33,7 @@ class TaskManager(object):
         self.rank.remove((old,t))
         del self.Store[t]
         self.add(user,t,new)
-        print self.Store
-        print self.rank
+        
 
     def rmv(self, t):
         """
@@ -46,16 +43,13 @@ class TaskManager(object):
         p,user = self.Store[t]
         del self.Store[t]
         self.rank.remove((p,t))
-        print self.Store
-        print self.rank
         
 
     def execTop(self):
         """
         :rtype: int
         """
-        print self.Store
-        print self.rank
+         
         
         if not self.rank : 
             return -1
