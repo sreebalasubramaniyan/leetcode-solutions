@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3678-design-task-manager](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3678-design-task-manager](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3678-design-task-manager) |
 ## Counting
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [3678-design-task-manager](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
