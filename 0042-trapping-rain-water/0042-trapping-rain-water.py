@@ -1,0 +1,65 @@
+class Solution(object):
+    def trap(self, nums):
+        """
+        hieght by height traversal
+            if water add
+            if bliokc pass
+        we need tow ends to hold the water
+            the first and last don't have their antoher ends so skip those 
+
+
+
+
+        """ 
+        n = len(nums)
+        pm = nums[:]
+        for i in range(1,n):
+            pm[i] = (max(pm[i],pm[i-1]))
+    
+        sm = nums[:]
+        for i in range(n-2,-1,-1):
+            sm[i] = max(sm[i],sm[i+1])
+        print (pm,sm)
+        res = 0
+        for idx,val in enumerate( nums) :
+            p_max = pm[idx]
+            s_max = sm[idx]
+            cur = min(p_max,s_max) - val
+            res += cur
+        return res
+
+
+
+
+
+        # def solve(nums):
+        #     res = []
+        #     for idx,val in enumerate(nums):
+        #         if val == 0 :
+        #             res.append(0)
+        #         elif val > 0 :
+        #             res.append(1)
+        #             nums[idx] -= 1
+        #     return res
+        # mat = []
+        # times = max(nums)
+        # for i in range(times):
+        #     temp = solve(nums)
+        #     mat.append(temp)
+        # def findWater(arr):
+        #     count = 0
+        #     inside = False
+        #     for num in arr:
+        #         if num == 1:
+        #             inside = True
+        #         elif num == 0 and inside:
+        #             count += 1
+        #     i = len(arr) - 1
+        #     while i >= 0 and arr[i] == 0:
+        #         count -= 1
+        #         i -= 1
+        #     return count
+        # res = 0 
+        # for i in mat :
+        #     res += findWater(i)
+        # return res
