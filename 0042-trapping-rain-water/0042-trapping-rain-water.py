@@ -48,21 +48,21 @@ class Solution(object):
         # Time : O(2n)
         # Space : O(n)
 
-        n = len(nums)
+        # n = len(nums)
 
-        # pm = nums[:]
-        # for i in range(1,n):
-        #     pm[i] = (max(pm[i],pm[i-1]))
-        sm = nums[:]
-        for i in range(n-2,-1,-1):
-            sm[i] = max(sm[i],sm[i+1])
+        # # pm = nums[:]
+        # # for i in range(1,n):
+        # #     pm[i] = (max(pm[i],pm[i-1]))
+        # sm = nums[:]
+        # for i in range(n-2,-1,-1):
+        #     sm[i] = max(sm[i],sm[i+1])
       
-        res = 0 ; p_max = nums[0]
-        for idx,val in enumerate( nums) :
-            p_max = max(val,p_max)
-            s_max = sm[idx]
-            cur = min(p_max,s_max) - val
-            res += cur
+        # res = 0 ; p_max = nums[0]
+        # for idx,val in enumerate( nums) :
+        #     p_max = max(val,p_max)
+        #     s_max = sm[idx]
+        #     cur = min(p_max,s_max) - val
+        #     res += cur
          
 
 
