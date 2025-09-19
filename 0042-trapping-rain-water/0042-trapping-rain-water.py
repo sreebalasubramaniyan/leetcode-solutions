@@ -8,16 +8,46 @@ class Solution(object):
             the first and last don't have their antoher ends so skip those 
 
 
-
-
+   
         """ 
+        n=len(nums) ; res = 0
+        left,right=0,n-1
+        lm,rm=nums[left],nums[right]
+        while left < right:
+            if lm <= rm:
+                left += 1
+                lm = max(lm,nums[left])
+                res += lm - nums[left]
+            else:
+                right -= 1
+                rm = max(rm,nums[right])
+                res += rm - nums[right]
+             
+
+        return res 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         #  Time : O(3n)
         #  Space : O(2n)
 
         # Reduced (remove left max instead keep update every time)
         # Time : O(2n)
         # Space : O(n)
-        
+
         n = len(nums)
 
         # pm = nums[:]
@@ -33,7 +63,7 @@ class Solution(object):
             s_max = sm[idx]
             cur = min(p_max,s_max) - val
             res += cur
-        return res
+         
 
 
 
