@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3797-design-spreadsheet](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3678-design-task-manager](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3462-vowels-game-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [3797-design-spreadsheet](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
 | ------- |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [3678-design-task-manager](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
