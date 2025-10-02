@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3336-water-bottles-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3678-design-task-manager) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
