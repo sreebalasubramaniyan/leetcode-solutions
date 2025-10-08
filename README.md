@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0503-next-greater-element-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [3797-design-spreadsheet](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
