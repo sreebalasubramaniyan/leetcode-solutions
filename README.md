@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0890-lemonade-change](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -300,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
