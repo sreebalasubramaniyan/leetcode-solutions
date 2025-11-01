@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
@@ -301,5 +304,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
