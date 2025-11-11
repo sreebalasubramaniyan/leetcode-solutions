@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [3797-design-spreadsheet](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3797-design-spreadsheet) |
 ## Brainteaser
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [1036-rotting-oranges](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
