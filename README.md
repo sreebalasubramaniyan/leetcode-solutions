@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0207-course-schedule) |
 | [1036-rotting-oranges](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0207-course-schedule) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -309,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0890-lemonade-change) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
