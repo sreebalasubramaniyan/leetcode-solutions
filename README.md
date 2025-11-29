@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3797-design-spreadsheet](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3336-water-bottles-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
