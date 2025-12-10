@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0413-arithmetic-slices](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/sreebalasubramaniyan/leetcode-solutions/tree/master/0890-lemonade-change) |
